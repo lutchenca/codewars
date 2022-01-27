@@ -10,6 +10,6 @@
 
 <br>
 
-| Kata(s)                                          | Solution(s) | Subject                          | CW Link |
-| ------------------------------------------------ | ----------- | -------------------------------- | ------- |
-| [**Multiply**](javascript/8kyuKatas/Multiply.md) | 1           | `str`, `search`, `list`, `array` |         |
+| Kata(s)                                          | Solution(s) | Subject                          |
+| ------------------------------------------------ | ----------- | -------------------------------- | --- |
+| [**Multiply**](javascript/8kyuKatas/Multiply.md) | 1           | `str`, `search`, `list`, `array` |     |
