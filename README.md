@@ -10,6 +10,7 @@
 
 <br>
 
-| Kata(s)                                          | Solution(s) | Subject                     |
-| ------------------------------------------------ | ----------- | --------------------------- |
-| [**Multiply**](javascript/8kyuKatas/Multiply.md) | 1           | `str`, `search`, `function` |
+| Kata(s)                                                          | Solution(s) | Subject                     |
+| ---------------------------------------------------------------- | ----------- | --------------------------- |
+| [**Multiply**](javascript/8kyuKatas/Multiply.md)                 | 1           | `str`, `search`, `function` |
+| [**Number to String**](javascript/8kyuKatas/number-to-string.md) | 1           | `number`, `str`, `function` |
