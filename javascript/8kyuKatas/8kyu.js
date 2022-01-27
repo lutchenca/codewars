@@ -39,3 +39,22 @@ function reverseWords(str){
   let joinStr = reverseStr.join(' ');
   return joinStr;
 }
+
+//05
+// Write a function called repeatStr which repeats the given string string exactly n times.
+//repeatStr(6, "I") // "IIIIII"
+// repeatStr(5, "Hello") // "HelloHelloHelloHelloHello"
+function repeatStr (n, s) {
+  let repeatStr = s.repeat(n);
+  return repeatStr;
+}
+
+//06
+//We need a function that can transform a number into a string.
+// What ways of achieving this do you know?
+// Examples:
+// 123 --> "123"
+// 999 --> "999"
+function numberToString(num) {
+  return num.toString();
+}
