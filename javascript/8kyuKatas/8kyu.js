@@ -34,6 +34,8 @@ function stringToArray(string){
 // Example:
 // "The greatest victory is that which requires no battle" --> "battle no requires which that is victory greatest The"
 function reverseWords(str){
-    let reverseString = str.reverse; 
-    return reverseString;
-  }
+  let splitStr = str.split(' ');
+  let reverseStr = splitStr.reverse();
+  let joinStr = reverseStr.join(' ');
+  return joinStr;
+}
