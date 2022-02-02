@@ -10,7 +10,11 @@
 
 <br>
 
-| Kata(s)                                                          | Solution(s) | Subject                     |
-| ---------------------------------------------------------------- | ----------- | --------------------------- |
-| [**Multiply**](javascript/8kyuKatas/Multiply.md)                 | 1           | `str`, `search`, `function` |
-| [**Number to String**](javascript/8kyuKatas/number-to-string.md) | 1           | `number`, `str`, `function` |
+| Kata(s)                                                                                          | Solution(s) | Subject                     |
+| ------------------------------------------------------------------------------------------------ | ----------- | --------------------------- |
+| [**Multiply**](javascript/8kyuKatas/Multiply.md)                                                 | 1           | `str`, `search`, `function` |
+| [**Number to String**](javascript/8kyuKatas/number-to-string.md)                                 | 1           | `number`, `str`, `function` |
+| [**Convert number to reversed array**](javascript/8kyuKatas/convert-number-to-reversed-array.md) | 1           | `number`, `str`, `function` |
+| [**Reversed Words**](javascript/8kyuKatas/reversed-words.md)                                     | 1           | `number`, `str`, `function` |
+| [**String Repeat**](javascript/8kyuKatas/string-repeat.md)                                       | 1           | `number`, `str`, `function` |
+| [**String to Array**](javascript/8kyuKatas/string-to-array.md)                                   | 1           | `number`, `str`, `function` |
