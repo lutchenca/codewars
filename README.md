@@ -1,6 +1,6 @@
 # CodeWars Javascript Solutions
 
-[CodeWars](https://www.codewars.com/) is a website to practice and improving programming stuff, you can follow [me](https://www.codewars.com/users/lutchenca)!
+[CodeWars](https://www.codewars.com/) is a website to practice and improving programming skills, you can follow [me](https://www.codewars.com/users/lutchenca)!
 
 ##### These solutions are for education purpose only. Do not directly use them on Codewars katas. Create your own solutions to learn more.
 
