@@ -8,12 +8,26 @@ In this simple assignment you are given a number and have to make it negative. B
 
 ---
 
-### Solution
+### Solution 01
 
 ```
 
 function makeNegative(num) {
   return num > 0 ? num * -1 : num;
+}
+
+```
+
+### Solution 02
+
+```
+
+function makeNegative(num) {
+  if(num <= 0){
+    return num;
+  }
+  else
+     return num *=-1
 }
 
 ```
