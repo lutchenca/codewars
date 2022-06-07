@@ -2,7 +2,7 @@
 
 ---
 
-## Multiply
+## String to array
 
 The code does not execute properly. Try to figure out why.
 
